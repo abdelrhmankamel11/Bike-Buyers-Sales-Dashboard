@@ -1,33 +1,18 @@
-Bike Buyers Sales Dashboard
+# Excel Sales Dashboard
 
-📊 Project Overview
+## Project Overview
+An interactive Sales Dashboard built using Microsoft Excel to analyze sales performance.
 
-This project is a data analysis dashboard created using Microsoft Excel to analyze bike buyers’ data and identify customer purchasing patterns.
+## Features
+- Interactive Dashboard
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
 
-🛠️ Tools Used
+## Tools Used
+- Microsoft Excel
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Data Cleaning
-* Data Analysis
-* Dashboard Design
+## Dashboard Preview
 
-🎯 Project Objectives
-
-* Analyze customer demographics.
-* Understand bike purchasing behavior.
-* Identify relationships between income, age, gender, and bike purchases.
-* Create an interactive dashboard to present the analysis.
-
-📈 Dashboard
-![Dashboard](PROJECT 2.png)
-The dashboard provides visual insights into bike purchasing patterns and customer characteristics.
-
-📁 Files
-
-* Bike Buyers Sales Dashboard.xlsx — The complete Excel analysis and dashboard.
-
-👤 Author
-
-Abdelrhman Kamel
+![Dashboard](PROJECT.png)ر

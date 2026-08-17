@@ -32,6 +32,3 @@ This project is a data analysis dashboard created using Microsoft Excel to analy
 
 Abdelrhman Kamel 
 
-## Dashboard Preview
-
-![Dashboard](PROJECT.png)ر

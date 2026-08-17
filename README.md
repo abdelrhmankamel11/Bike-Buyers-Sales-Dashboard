@@ -21,7 +21,7 @@ This project is a data analysis dashboard created using Microsoft Excel to analy
 * Create an interactive dashboard to present the analysis.
 
 📈 Dashboard
-![Bike Buyers Sales Dashboard](PROJECT 2.png)
+![Dashboard](PROJECT 2.png)
 The dashboard provides visual insights into bike purchasing patterns and customer characteristics.
 
 📁 Files
